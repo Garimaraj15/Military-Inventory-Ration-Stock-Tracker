@@ -1,3 +1,8 @@
+<img width="1535" height="441" alt="dashboard" src="https://github.com/user-attachments/assets/33e6c424-4d82-4371-9a1f-ff59729cb654" />
+<img width="1059" height="630" alt="Charts" src="https://github.com/user-attachments/assets/55d9ed92-8a69-4034-8f34-13cba864527c" />
+
+
+
 # Military Inventory & Ration Stock Tracker
 
 ## Overview
