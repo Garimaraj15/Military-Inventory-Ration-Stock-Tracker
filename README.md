@@ -22,6 +22,8 @@ The dashboard includes dynamic charts for category-wise inventory analysis, inve
 
 ## 🤖 AI Inventory Advisor
 
+<img width="655" height="411" alt="Screenshot 2026-08-12 155648" src="https://github.com/user-attachments/assets/827c8297-423f-4ee6-8ec8-d98ecfa94d89" />
+
 The project includes an **AI-powered Inventory Advisor** integrated with the Gemini API.
 
 The AI analyzes inventory data and generates a concise risk and replenishment summary covering:
